@@ -7,4 +7,5 @@ Meu nome é Emanuelle Alcântara
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos produzidos 
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/fcae336b-979b-4ced-9048-dadd6184a5b7)
+
